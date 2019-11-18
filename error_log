@@ -1,0 +1,92 @@
+[05-Jul-2019 22:58:26 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/krushqbd/public_html/malnadmatrimony.com/app/Http/Controllers/Api/UserApiController.php on line 52
+[05-Jul-2019 22:59:51 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/krushqbd/public_html/malnadmatrimony.com/app/Http/Controllers/Api/UserApiController.php on line 52
+[18-Jul-2019 10:49:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:08:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:08:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:08:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:09:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:09:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:09:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:09:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:09:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:09:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:09:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:09:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:09:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:10:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:10:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:10:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:10:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:10:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:10:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:10:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:10:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:12:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:12:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:13:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:13:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:17:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Jul-2019 14:17:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[19-Jul-2019 20:50:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:26 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:30 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:35 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:42 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:46 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:47 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:48 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:49 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:49 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:49 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:50 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:51 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:51 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:51 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:52 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:52 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:53 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:53 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:53 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:54 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:54 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:54 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:55 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:56 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:56 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:57 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jul-2019 20:50:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/http-foundation/Response.php on line 499
+[19-Jul-2019 20:50:57 Asia/Kolkata] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[31-Jul-2019 16:59:15 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 4096 bytes) in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 346
+[31-Jul-2019 11:29:15 Etc/GMT] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/finder/Finder.php on line 438
+[31-Jul-2019 11:29:17 Etc/GMT] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/finder/Finder.php on line 438
+[31-Jul-2019 11:29:19 Etc/GMT] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/krushqbd/public_html/malnadmatrimony.com/vendor/composer/autoload_static.php on line 4017
+[31-Jul-2019 11:29:21 Etc/GMT] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/krushqbd/public_html/malnadmatrimony.com/vendor/symfony/finder/Finder.php on line 438
+[31-Jul-2019 16:59:21 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 4096 bytes) in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/View/Compilers/Concerns/CompilesLayouts.php on line 72
+[31-Jul-2019 16:59:21 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 4096 bytes) in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/View/Compilers/Concerns/CompilesLayouts.php on line 72
+[31-Jul-2019 11:29:22 Etc/GMT] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/krushqbd/public_html/malnadmatrimony.com/vendor/composer/autoload_static.php on line 4017
+[31-Jul-2019 16:59:28 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 20480 bytes) in /home/krushqbd/public_html/malnadmatrimony.com/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 367
